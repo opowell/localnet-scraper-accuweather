@@ -1,0 +1,9 @@
+{
+  "scrapers": [
+    {
+      "name": "AccuWeather",
+      "urlPattern": "accuweather.com"
+    }
+  ],
+  "file": "accuweather.js"
+}
